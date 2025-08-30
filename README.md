@@ -1,1 +1,1 @@
-wget -N --no-check-certificate https://raw.githubusercontent.com/flame1ce/hysteria2-install/main/hysteria2-install-main/hy2/hysteria.sh && bash hysteria.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/cocotina2023/hysteria2-v/main/hysteria2-v/hy2/hysteria.sh && bash hysteria.sh
